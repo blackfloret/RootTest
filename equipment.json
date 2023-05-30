@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Dagger",
+        "Type": "Weapon",
+        "Wear": 1,
+        "Load": 0,
+        "Range": ["Intimate", "Close"],
+        "WeaponSkillTags": ["Parry", "Vicious strike"],
+        "Tags": ["Quick"]
+    },
+    {
+        "Name": "Mousefolk Short Sword",
+        "Type": "Weapon",
+        "Wear": 3,
+        "Value": 6,
+        "Load": 1,
+        "Range": ["Close"],
+        "WeaponSkillTags": ["Parry", "Disarm"],
+        "Tags": ["Mousefolk Steel"]
+    },
+    {
+        "Name": "Leather Armor",
+        "Type": "Armor",
+        "Wear": 1,
+        "Value": 3,
+        "Load": 1,
+        "Tags": ["Flexible"]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Attempt a Roguish Feat",
+        "Content": "When you attempt a roguish feat you are skilled in, say your goal and roll with Finesse. On a hit, you achieve your goal. On a 7-9, mark exhaustion or one risk of your feat (GM's choice) comes to bear. When you attempt a roguish feat, you are NOT skilled in, you are trusting fate."
+    },
+    {
+        "Name": "Figure Someone Out",
+        "Content": ""
+    },
+    {
+        "Name": "Persuade an NPC",
+        "Content": ""
+    },
+    {
+        "Name": "Read a Tense Situation",
+        "Content": ""
+    },
+    {
+        "Name": "Trick an NPC",
+        "Content": ""
+    },
+    {
+        "Name": "Trust Fate",
+        "Content": ""
+    },
+    {
+        "Name": "Wreck Something",
+        "Content": ""
+    },
+    {
+        "Name": "Help or Interfere",
+        "Content": ""
+    },
+    {
+        "Name": "Plead with a PC",
+        "Content": ""
+    }
+]

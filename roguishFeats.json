@@ -1,0 +1,48 @@
+[
+    {
+      "Name": "Acrobatics",
+      "Description": "Adeptly climbing, vaulting, jumping",
+      "Risks": "Break something, detection, plunge into danger"
+    },
+    {
+      "Name": "Blindside",
+      "Description": "Backstab, murder, sneak attack, sucker punch",
+      "Risks": "Draw unwanted attention, leave evidence, plunge into danger"
+    },
+    {
+      "Name": "Counterfeit",
+      "Description": "Copying, forgery, fakery",
+      "Risks": "Leave evidence, take too long, weak result"
+    },
+    {
+      "Name": "Disable Device",
+      "Description": "Disarming traps, turning off mechanisms",
+      "Risks": "Break something, draw unwanted attention, expend resources"
+    },
+    {
+      "Name": "Hide",
+      "Description": "Disappear from view, remain hidden",
+      "Risks": "Expend resources, leave evidence, take too long"
+    },
+    {
+      "Name": "Pick Lock",
+      "Description": "Open a locked door, chest, etc.",
+      "Risks": "Break something, detection, plunge into danger"
+    },
+    {
+      "Name": "Pickpocket",
+      "Description": "Subtly steal from a pocket",
+      "Risks": "Leave evidence, take too long, weak result"
+    },
+    {
+      "Name": "Sleight of Hand",
+      "Description": "Palming, switching, ditching, flourishes",
+      "Risks": "Draw unwanted attention, leave evidence, weak result"
+    },
+    {
+      "Name": "Sneak",
+      "Description": "Get into or out of places without being seen",
+      "Risks": "Break something, draw unwanted attention, plunge into danger"
+    }
+]
+  

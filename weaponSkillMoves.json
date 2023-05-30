@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Cleave",
+        "Content": "When you cleave armored foes at close range, mark exhaustion and roll with Might. On a hit you smash through their defenses and equipment; inflict 3-wear. On a 7-9, you overextend your weapon or yourself: mark wear or end up in a bad spot, your choice."
+    },
+    {
+        "Name": "Confuse Senses",
+        "Content": "When you throw something to confuse an opponent's sesnses at close or intimate range, roll with Finesse. ON a hit, you've thronw them off balance, blinded them, deafened them, or confused them, and given yourself an opportunity. On a 10+, they have to take some time to get their bearings and restore their senses before they can act clearly again. On a 7-9, you have just a few moments."
+    },
+    {
+        "Name": "Disarm",
+        "Content": "When you target an opponent's weapon with your strikes at close range, roll with Finesse. On a hit, they have to mark 2-exhaustion or lose their weapon — it's well out of reach. On a 10+, they have to mark 3-exhaustion instead of 2."
+    },
+    {
+        "Name": "Harry a Group",
+        "Content": "When you harry a group of enemies at far range, mark wear and roll with Cunning. On a 10+, both. On a 7-9, choose 1:\n• inflict 2-morale harm\n• they are pinned or blocked"
+    },
+    {
+        "Name": "Improvise a Weapon",
+        "Content": "When you make a weapon out of improvised materials around you, roll with Cunning. On a hit, you make a weapon; the GM will tell you its range tag and at least one other beneficial tag based on the materials you used. On a 7-9, the weapon also has a weakness tag."
+    },
+    {
+        "Name": "Parry",
+        "Content": "When you try ot parrty the attack of an enemy at close range, mark exhaustion and roll with Finesse. On a hit, you consume their attention. On a 10+, all 3. On a 7-9, pick 1.\n• you inflict morale or exhaustion harm (GM's choice)\n• you disarm your opponent; their weapon is out of hand, but in reach\n• you don't suffer any harm"
+    },
+    {
+        "Name": "Quick Shot",
+        "Content": "When you fire a snap shot at an enemy at close range, roll with Luck. On a hit, inflict injury. On a 7-9, choose 1. On a 10+, choose 2.\n• you don't mark wear\n• you don't mark exhaustion\n• you move quickly and change your position (and, if you choose, range)\n• you keep your target at bay—they don't move"
+    },
+    {
+        "Name": "Storm a Group",
+        "Content": "When you storm a group of foes in melee, mark exhaustion and roll with Might. On a hit, trade harm. On a 10+, choose 2. On a 7-9, choose 1.\n• you show them up; you inflict 2-morale harm\n• you keep them off-balance and confused; you inflict 2-exhaustion\n• you avoid their blows to the best of your ability; you suffer little (-1) harm\n• you use them against each other; mark exhaustion again and they inflict harm against themselves"
+    },
+    {
+        "Name": "Trick Shot",
+        "Content": "When you fire a clever shot designed to take advantag eof the environment at any range, mark wear and roll with Finesse. On a 7-9, choose 2. On a 10+, choose 3.\n• your shot lands in any target of your choice within range, even if it's behind cover or hidden (inflicting injury or wear if appropriate)\n• your shot strikes a second available target of your choice\n• your shot cuts something, breaks something, or knocks something over, your choice\n• your shot distracts an opponents and provides an opportunity"
+    },
+    {
+        "Name": "Vicious Strike",
+        "Content": "When you viciously strike an opponent where they are weak at intimate or close range, mark exhaustion and roll with Might. On a hit, they suffer serious (+1) harm and cannot mark wear on their armor to block it. Ona  10+, you get away with the strike. On a 7-9, they score a blow against you as well."
+    }
+]

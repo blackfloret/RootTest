@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Bramble",
+        "Playbook": "The Vagrant",
+        "Species": "opposum",
+        "Demeanor": "excited",
+        "Details": {
+            "Pronouns": ["it"],
+            "Appearance": ["mangy", "patchwork"],
+            "Trinket": ["stolen military insignia"]
+        },
+        "Stats": {
+            "Charm": 2,
+            "Cunning": 2,
+            "Finesse": -1,
+            "Luck": 0,
+            "Might": 0
+        },
+        "WeaponSkills": ["Improvise"],
+        "RoguishFeats": ["Pick Lock", "Sleight of Hand"],
+        "Nature": {
+            "Name": "Hustler",
+            "Content": "Clear your exhaustion track when you try to spring a con on a powerufl or dangerous mark."
+        },
+        "Drives": ["Chaos", "Thrills"],
+        "Connections": [
+            {
+                "Name": "Family",
+                "Content": "After _ and I pulled off an impressive heist and stole something very valuable from a powerful faction, my bad choices landed me in dire straits. But they bailed me out, and we've been close ever since.",
+                "Character": ""
+            },
+            {
+                "Name": "Watcher",
+                "Content": "_ saw through one of my cons, and turned it back on me. How? Why did we forgive each other?",
+                "Character": ""
+            }
+        ],
+        "BackgroundQuestions": [
+            {
+                "Question": "Where do you call home?",
+                "Answer": "the forest"
+            },
+            {
+                "Question": "Why are you a vagabond?",
+                "Answer": "I am on the run for my lies"
+            },
+            {
+                "Question": "Whom have you left behind?",
+                "Answer": "my boss"
+            },
+            {
+                "Question": "Which faction have you served the most?",
+                "Answer": ""
+            },
+            {
+                "Question": "With which faction have you earned a special enmity?",
+                "Answer": ""
+            }
+        ],
+        "Moves": ["Instigator", "Pleasant Facade", "Charm Offensive"]
+    }
+]

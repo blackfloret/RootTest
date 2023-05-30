@@ -1,0 +1,228 @@
+[
+    {
+      "Name": "Arrow-proof",
+      "Content": "Ignore the first hit dealing injury from arrows that you suffer in a scene. (Armor)",
+      "Value": 1
+    },
+    {
+      "Name": "Blunted",
+      "Content": "This weapon inflicts exhaustion, not injury. (Hammer, staff)",
+      "Value": 1
+    },
+    {
+      "Name": "Catfolk Steel",
+      "Content": "Mark wear when engaging in melee to shift your range one step, even on a miss. (Armor, weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Ceremonial",
+      "Content": "Choose an attached faction. While this item is displayed, treat yourself as having +1 Reputation with that faction, and -1 Reputation with other factions. (Anything)",
+      "Value": 1
+    },
+    {
+      "Name": "Comfortable",
+      "Content": "This item counts as 1 fewer Load. (Armor)",
+      "Value": 1
+    },
+    {
+      "Name": "Durable",
+      "Content": "If this item would ever be destroyed, permanently remove 1-wear from it instead. If it ever has no wear remaining, it is destroyed. (Anything)",
+      "Value": 1
+    },
+    {
+      "Name": "Eaglecraft",
+      "Content": "Mark wear when engaging in melee to both make and suffer another exchange of harm. (Weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Fast",
+      "Content": "Mark wear when engaging in melee to suffer 1 fewer harm, even on a miss. (Smaller or thinner weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Friendly",
+      "Content": "When you meet someone important, mark exhaustion to roll with your Reputation +1. (Armor, nonthreatening weapons like staves)",
+      "Value": 1
+    },
+    {
+      "Name": "Flexible",
+      "Content": "When you grapple with someone, mark exhaustion to ignore the first choice they make. (Armor)",
+      "Value": 1
+    },
+    {
+      "Name": "Foxfolk Steel",
+      "Content": "Ignore the first box of wear you mark on this item each session. (Weapons and some armor)",
+      "Value": 1
+    },
+    {
+      "Name": "Hair Trigger",
+      "Content": "Mark wear to target a vulnerable foe at close range instead of far. (Crossbow)",
+      "Value": 1
+    },
+    {
+      "Name": "Healer's Kit",
+      "Content": "Mark wear to clear exhaustion. Mark 2-wear to clear injury. (Healer's kit)",
+      "Value": 1
+    },
+    {
+      "Name": "Heavy Bludgeon",
+      "Content": "Mark exhaustion to ignore your enemy's armor when you inflict harm. (Hammer, mace)",
+      "Value": 1
+    },
+    {
+      "Name": "Heavy Draw Weight",
+      "Content": "When you target a vulnerable foe with this bow, mark exhaustion to inflict 1 additional injury. (Bow)",
+      "Value": 1
+    },
+    {
+      "Name": "Iron bolts",
+      "Content": "This weapon inflicts 1 additional wear when its harm is absorbed by armor. (Bow, crossbow)",
+      "Value": 1
+    },
+    {
+      "Name": "Large",
+      "Content": "Mark exhaustion when inflicting harm with this weapon to inflict 1 additional harm. (Weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Luxury",
+      "Content": "After creation, this item is worth +3-Value. (Anything)",
+      "Value": 1
+    },
+    {
+      "Name": "Mousefolk Steel",
+      "Content": "Mark wear to engage in melee using Cunning instead of Might. (Weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Mighty",
+      "Content": "When you wreck something with this item, mark 2-wear to shift a miss to a 7-9 or a 7-9 to a 10+ result. (Explosives, heavy weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Oiled String",
+      "Content": "Mark wear to use the weapon skill quick shot even if you don't have it. (Bow)",
+      "Value": 1
+    },
+    {
+      "Name": "Quick",
+      "Content": "Mark exhaustion to engage in melee with Finesse instead of Might. (Small or fast weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Rabbitfolk Steel",
+      "Content": "Mark wear to engage in melee with Finesse instead of Might. (Weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Reach",
+      "Content": "When you engage in melee, mark wear on this weapon to inflict harm instead of trading harm; you cannot use this tag if your enemy's weapon also has reach. (Large, tall weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Refreshing",
+      "Content": "When you take some time to relax and drink or eat from this item with a group, mark 3-wear, +1 additional wear for each participant past the third. Every participant clears all exhaustion. (Meal, flask)",
+      "Value": 1
+    },
+    {
+      "Name": "Sharp",
+      "Content": "Mark wear when inflicting harm with this weapon to inflict 1 additional harm. (Edged weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Short Limbs",
+      "Content": "Mark wear to fire a quick shot at far range. (Small bow)",
+      "Value": 1
+    },
+    {
+      "Name": "Signature",
+      "Content": "Whenever you earn prestige or notoriety while showing this item, mark 1 additional prestige or notoriety. (Anything displayed)",
+      "Value": 1
+    },
+    {
+      "Name": "Thick",
+      "Content": "When you mark wear on this shield to block a hit, you only ever mark 1-wear, even if you are blocking more harm from a single hit. (Shield)",
+      "Value": 1
+    },
+    {
+      "Name": "Thief Kit",
+      "Content": "When you attempt a roguish feat appropriate for this item, you may mark wear on this item instead of marking exhaustion to avoid a risk coming to bear on a 7-9. (Tools, specially made armor or weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Throwable",
+      "Content": "Mark exhaustion to target a vulnerable foe with this weapon at far range. (Daggers, grenades)",
+      "Value": 1
+    },
+    {
+      "Name": "Tightly Woven",
+      "Content": "When you take a few seconds to repair this armor after a fight, clear 1-wear you marked during the fight. (Chain armor)",
+      "Value": 1
+    },
+    {
+      "Name": "Tricky",
+      "Content": "When you use this item to trick an NPC by distracting them at a distance, on a 7-9 mark wear to eliminate one option from the trick an NPC move before the NPC picks. (Bolas, bows)",
+      "Value": 1
+    },
+    {
+      "Name": "Unassuming",
+      "Content": "Until you harm an enemy, they will never deem you more of a threat than other vagabonds with arms and armor. (Robes, staves)",
+      "Value": 1
+    },
+    {
+      "Name": "Versatile",
+      "Content": "When you move to or from a range this weapon can reach, mark wear to make a quick strike and inflict injury on any opponent in this weapon's range. (Fast weapons)",
+      "Value": 1
+    },
+    {
+      "Name": "Bulky",
+      "Content": "This weapon cannot be hidden and is always visible while on your body. Mark exhaustion whenever you attempt a roguish feat or trust fate to sneak, hide, blindside, or perform an act of acrobatics. (Large weapons)",
+      "Value": -1
+    },
+    {
+      "Name": "Cumbersome",
+      "Content": "Mark 1-exhaustion when you don your armor—clear 1-exhaustion when you take it off. (Heavy armor)",
+      "Value": -1
+    },
+    {
+      "Name": "Fragile",
+      "Content": "When you make a weapon move with this weapon, mark wear on it. Mark exhaustion to ignore this effect. (Light weapons)",
+      "Value": -1
+    },
+    {
+      "Name": "Hated",
+      "Content": "Take -2 Reputation with the faction that loathes this item while it is displayed. If you reveal this item to foes from that faction, they clear morale as they are energized by anger at you. (Anything)",
+      "Value": -1
+    },
+    {
+      "Name": "Shoddy",
+      "Content": "Repairing this item costs twice as much Value per box of wear cleared. (Anything)",
+      "Value": -1
+    },
+    {
+      "Name": "Slow",
+      "Content": "When you engage in melee with this weapon, choose one fewer option. Mark wear to ignore this effect. (Heavy weapons)",
+      "Value": -1
+    },
+    {
+      "Name": "Ugly",
+      "Content": "Take -1 to meet someone important while they can see this item. Mark exhaustion to hide it. (Weapons or handheld items)",
+      "Value": -1
+    },
+    {
+      "Name": "Unwieldy",
+      "Content": "Take a -1 to all weapon moves—both basic and special weapon moves—made with this weapon. Mark exhaustion to ignore this effect.",
+      "Value": -1
+    },
+    {
+      "Name": "Weighty",
+      "Content": "This item counts as 1 additional Load. (Anything large)",
+      "Value": -1
+    },
+    {
+      "Name": "Wicked",
+      "Content": "Anyone who sees this weapon will deem its wielder a threat, at least to be watched carefully. When you inflict any harm with this weapon, mark notoriety with an observing faction for each harm inflicted. (Cruel weapons)",
+      "Value": -1
+    }
+  ]
+  

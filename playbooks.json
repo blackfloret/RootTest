@@ -1,0 +1,307 @@
+[
+    {
+        "Name": "The Adventurer",
+        "Description": "You are a peaceful, diplomatic vagabond, making allies rfom those you aid, perhaps toppling greater powers by forging strong bonds with others.",
+        "Source": "Core Rulebook",
+        "Species": ["fox", "mouse", "rabbit", "bird", "owl", "other"],
+        "Pronouns": ["he", "she", "they", "shifting"],
+        "Appearance": ["formal", "colorful", "multicultural", "simple"],
+        "Trinket": ["medal of service", "beaded jewelry", "carved flute", "pouches with pretty stones"],
+        "Stats": {
+            "Charm": 1,
+            "Cunning": 1,
+            "Finesse": 0,
+            "Luck": 0,
+            "Might": -1
+        },
+        "WeaponSkills": ["Disarm", "Harry", "Improvise", "Parry"],
+        "RoguishFeats": ["Counterfeit", "Sleight of Hand"],
+        "StartingValue": 9,
+        "Natures": [
+            {
+                "Name": "Extrovert",
+                "Content": "Clear your exhaustion track when you try to flee or cover allies' flight from a dangerous or overwhelming situation"
+            },
+            {
+                "Name": "Peacemaker",
+                "Content": "Clear your exhaustion track when you resolve a dangerous conflict nonviolently."
+            }
+        ],
+        "Drives": ["Ambition", "Clean Paws", "Principles", "Justice"],
+        "Connections": [
+            {
+                "Name": "Partner",
+                "Content": "_ and I fought alongside each other to defend a clearing from a faction's advances... but we failed. Why did we defend the clearing? Why did we fail? Who defeated us?"
+            },
+            {
+                "Name": "Friend",
+                "Content": "I traveled with _ for a time right after I became a vagabond. They helped keep me safe and showed me the Woodland. What keepsake did I gift them?"
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Sterling Reputation",
+                "Content": "Whenever you mark any amount of prestige with a faction, mark one additional prestige. When you mark any amount of notoriety with a faction, you can instead clear an equivalent amount of marked prestige."
+            },
+            {
+                "Name": "Subduing Strikes",
+                "Content": "When you aim to subdue an enemy quickly and nonlethally, you can engage in melee with Cunning instead of Might. You cannot choose to inflict serious harm if you do."
+            },
+            {
+                "Name": "Talon on the Pulse",
+                "Content": "When you gather information about the goings-on in a clearing, roll with Cunning. On a 10+, ask 3. On a 7-9, ask 2.\n• Who holds power in this clearing?\n• Who is the local dissident?\n•What are the denizens afraid of?\n•What opportunities exist for enterprising vagabonds?\nOn a miss, your questions tip off someone dangerous."
+            },
+            {
+                "Name": "Orator",
+                "Content": "When you give a speech to interested denizens of a clearing, say what you are motivating them to do and roll with Charm. On a hit, they will move to do it as they see fit. On a 10+, choose 2. On a 7-9, choose 1.\n• They don't try to take your intent too far\n• They don't disband at the first sign of real resistance\n•They don't demand you stand at their head and lead\nOn a miss, they twist your message in unpredictable ways."
+            },
+            {
+                "Name": "Well-Read",
+                "Content": "Take +1 Cunning (max +3)."
+            },
+            {
+                "Name": "Fast Friends",
+                "Content": "When you try to befriend an NPC you've just met by matching their personality, body language, and desires, mark exhaustion and roll with Cunning. On a hit, they'll look upon you favorably -- ask them any one non-compromising question and they'll answer truthfully, or request a simple favor and they'll do it for you. On a 10+, they really like you -- they'll share a valuable secret or grant you a serious favor instead. On a miss, you read them totally wrong, and their displeasure costs you."
+            }
+        ],
+        "BackgroundQuestions": [
+            {
+                "Question": "Where do you call home?",
+                "Answers": [
+                    "_ clearing", 
+                    "the forest", 
+                    "a place far from here"
+                ]
+            },
+            {
+                "Question": "Why are you a vagabond?",
+                "Answers": [
+                    "I want to help the Woodland", 
+                    "I want to explore the Woodland", 
+                    "I believe the current faction should be overturned", 
+                    "I must keep a promise to a loved one", 
+                    "I want freedom from society's constraints"
+                ]
+            },
+            {
+                "Question": "Whom have you left behind?",
+                "Answers": [
+                    "my mentor",
+                    "my family",
+                    "my loved one",
+                    "my student",
+                    "my greatest ally"
+                ]
+            },
+            {
+                "Question": "Which faction have you serverd the most?",
+                "Answers": [
+                    "_"
+                ]
+            },
+            {
+                "Question": "With which faction have you earned a special enmity?",
+                "Answers": [
+                    "_"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "The Arbiter",
+        "Description": "You are a powerful, obstinate vagabond, serving as somewhere between a mercenary and a protector, perhaps taking sides too easily in the greater conflict between the factions.",
+        "Species": ["fox", "mouse", "rabbit", "bird", "badger", "other"],
+        "Demeanor": ["intimidating", "honest", "brusque", "open"],
+        "Details": {
+            "Pronouns": ["he", "she", "they", "shifting"],
+            "Appearance": ["large", "scarred", "well-groomed", "old"],
+            "Trinket": ["faded military insignia", "eyepatch", "repaired clothes", "tarnished locket"]
+        },
+        "Stats": {
+            "Charm": 1,
+            "Cunning": 0,
+            "Finesse": 0,
+            "Luck": -1,
+            "Might": 2
+        },
+        "WeaponSkills": ["Cleave", "Disarm", "Parry", "Storm a Group"],
+        "RoguishFeats": ["_"],
+        "StartingValue": 10,
+        "Natures": [
+            {
+                "Name": "Defender",
+                "Content": "Clear your exhaustion track when you put yourself in harm's way to defend someone against injustice or dire threat."
+            },
+            {
+                "Name": "Punisher",
+                "Content": "Clear your exhaustion track when you tell a powerful or dangerous villain to their face that you will punish them."
+            }
+        ],
+        "Drives": ["Justice", "Principles", "Loyalty", "Protection"],
+        "Connections": [
+            {
+                "Name": "Protector",
+                "Content": "I once protected _ from a mortal blow during a fight, and I would do it again. Why?"
+            },
+            {
+                "Name": "Partner",
+                "Content": "_ and I together helped a faction take control of a clearing, and share responsibility for it."
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "Brute",
+                "Content": "Take +1 Might (max +3)."
+            },
+            {
+                "Name": "Carry a Big Stick",
+                "Content": "When you use words to pause an argument or violent conflict between others, roll with Charm. On a hit, they choose: mark 2-exhaustion and keep going, or stop for now. Ona 10+, take +1 ongoing to dealing with them peacefully. On a miss, NPCs turn their anger to you, and PCs take +1 ongoing against you for the scene."
+            },
+            {
+                "Name": "Crash and Smash",
+                "Content": "When you smash your way through scenery top reach someone or something, roll with Might. On a hit, you reach your target. On a 10+, choose 1. On a 7-9, choose 2.\n• You hurt yourself: mark 1 injury\n• You break an important part of your surroundings\n• You damage or leave behind a piece of gear (GM's choice)\nOn a miss, you smash through, but you leave yourself totally vulnerable on the other side."
+            },
+            {
+                "Name": "Hardy",
+                "Content": "Take 1 additional injury box. Whenever time passes or you journey to a new clearing, you can clear 2 injury boxes automatically."
+            },
+            {
+                "Name": "Strong Draw",
+                "Content": "When you target someone with a bow, mark wear on the bow to roll with Might. On a hit, mark exhaustion to inflict 1 additional injury. Mark exhaustion."
+            },
+            {
+                "Name": "Guardian",
+                "Content": "When you defend someone or something from an immediate NPC or environmental threat, roll with Might. On a hit, you keep them safe and choose one. On a 7-9, it costs: expose yourself to danger or escalate the situation.\n• Draw the attention of the threat; they focus on you now\n• Put the threat in a vulnerable spot; take +1 forward to counterstrike\n• Push the threat back; you and your protectee have a chance to maneuver or flee\nOn a miss, you take the full brunt of the blow intended for your protectee, and the threat has you where it wants you."
+            }
+        ],
+        "BackgroundQuestions": [
+            {
+                "Question": "Where do you call home?",
+                "Answers": [
+                    "_ clearing",
+                    "the forest",
+                    "a place far from here"
+                ]
+            },
+            {
+                "Question": "Why are you a vagabond?",
+                "Answers": [
+                    "I want to fight for the Woodland freedom",
+                    "I am chasing a loved one",
+                    "I am on the run for my crimes",
+                    "I feel a deep wanderlust",
+                    "I am on the run from a commitment at home"
+                ]
+            },
+            {
+                "Question": "Whom have you left behind?",
+                "Answers": [
+                    "my teacher",
+                    "my family",
+                    "my loved one",
+                    "my idol",
+                    "my best friend"
+                ]
+            },
+            {
+                "Question": "Which faction have you served the most?",
+                "Answers":["_"]
+            },
+            {
+                "Question": "With which faction have you earned a special enmity?",
+                "Answers":["_"]
+            }
+
+        ]
+    },
+    {
+        "Name": "The Harrier",
+        "Description": "You are a quick, enterprising vagabond, racing easily from buiding to building and clearing to clearing without anything stopping you, perhaps finding yourself in places others would rather keep secret or hidden.",
+        "Species": ["fox", "mouse", "rabbit", "bird", "squirrel", "other"],
+        "Demeanor": ["excited", "energetic", "passiionate", "flighty"],
+        "Details": {
+            "Pronouns": ["he", "she", "they"],
+            "Appearance": ["roguish", "kitted out", "vibrant", "scarred"],
+            "Trinket": ["half-started maps", "sewn bandana", "ball and cup", "wide-brimmed hat"]
+        },
+        "Stats": {
+            "Charm": 0,
+            "Cunning": -1,
+            "Finesse": 2,
+            "Luck": 1,
+            "Might": 0
+        },
+        "WeaponSkills": ["Disarm", "Harry", "Quick Shot", "Trick Shot"],
+        "RoguishFeats": ["Acrobatics", "Sneak"],
+        "StartingValue": 9,
+        "Natures": [
+            {
+                "Name": "Dutiful",
+                "Content": "Clear you exhaustion track when you take on a dangerous or difficult task on behalf on another"
+            },
+            {
+                "Name": "",
+                "Content": ""
+            }
+        ],
+        "Drives": [],
+        "Connections": [
+            {
+                "Name": "",
+                "Content": ""
+            },
+            {
+                "Name": "",
+                "Content": ""
+            }
+        ],
+        "Moves": [
+            {
+                "Name": "",
+                "Content": ""
+            },
+            {
+                "Name": "",
+                "Content": ""
+            },
+            {
+                "Name": "",
+                "Content": ""
+            },
+            {
+                "Name": "",
+                "Content": ""
+            },
+            {
+                "Name": "",
+                "Content": ""
+            },
+            {
+                "Name": "",
+                "Content": ""
+            }
+        ],
+        "BackgroundQuestions": [
+            {
+                "Question": "Where do you call home?",
+                "Answers": []
+            },
+            {
+                "Question": "Why are you a vagabond?",
+                "Answers": []
+            },
+            {
+                "Question": "Whom have you left behind?",
+                "Answers": []
+            },
+            {
+                "Question": "Which faction have you served the most?",
+                "Answers": []
+            },
+            {
+                "Question": "With which faction have you earned a special enmity?",
+                "Answers": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "NAME": "Ambition",
+        "DESCRIPTION": "Advance when you increase your Reputation with any faction",
+        "EXPLANATION": "Your Reputation is the number, not simply prestige boxes. The actual value of your Reputation has to go up. You advance for any time your Reputation with any faction goes up (although again, only once per session). Whether your Reputation moves from -3 to -2 or +2 to +3, it still counts."
+    },
+    {
+        "NAME": "Chaos",
+        "DESCRIPTION": "Advance when you topple a tyrannical or dangerously overbearing figure or order."
+    },
+    {
+        "NAME": "Clean Paws",
+        "DESCRIPTION": "Advance when you accomplish an illicit, criminal goal while maintaining a believable veneer of innocence."
+    },
+    {
+        "NAME": "Crime",
+        "DESCRIPTION": "Advance when you illicitly score a significant prize or pull off an illegal caper against impressive odds."
+    },
+    {
+        "NAME": "Discovery",
+        "DESCRIPTION": "Advance when you encounter a new wonder or ruin in the forests."
+    },
+    {
+        "NAME": "Freedom",
+        "DESCRIPTION": "Advance when you free a group of denizens from oppression."
+    },
+    {
+        "NAME": "Greed",
+        "DESCRIPTION": "Advance when you secure a serious payday or treasure."
+    },
+    {
+        "NAME": "Infamy",
+        "DESCRIPTION": "Advance when you decrease your Reputation with any faction."
+    },
+    {
+        "NAME": "Justice",
+        "DESCRIPTION": "Advance when you achieve justice for someone wronged by a powerful, wealthy, or high-status individual."
+    },
+    {
+        "NAME": "Loyalty",
+        "DESCRIPTION": "You're loyal to someone; name them. Advance when you obey their order at a great cost to yourself."
+    },
+    {
+        "NAME": "Principles",
+        "DESCRIPTION": "Advance when you express or embody your moral principles at great cost to yourself or your allies."
+    },
+    {
+        "NAME": "Protection",
+        "DESCRIPTION": "Name your ward. Advance when you protect them from significant danger, or when time passes and your ward is safe."
+    },
+    {
+        "NAME": "Revenge",
+        "DESCRIPTION": "Name your foe. Advance when you cause significant harm to them or their interests."
+    },
+    {
+        "NAME": "Thrills",
+        "DESCRIPTION": "Advance when you escape from certain death or incarceration."
+    },
+    {
+        "NAME": "Wanderlust",
+        "DESCRIPTION": "Advance when you finish a journey to a clearing."
+    }
+]

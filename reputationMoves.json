@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Ask for a Favor",
+        "Content": ""
+    },
+    {
+        "Name": "Draw Attention",
+        "Content": "",
+        "Requirement": -2
+    },
+    {
+        "Name": "Sway an NPC",
+        "Content": "",
+        "Requirement": 2
+    },
+    {
+        "Name": "Make a Pointed Threat",
+        "Content": "",
+        "Requirement": -3
+    },
+    {
+        "Name": "Command Resources",
+        "Content": "",
+        "Requirement": 3
+    }
+]
